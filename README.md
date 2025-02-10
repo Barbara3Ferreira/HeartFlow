@@ -53,7 +53,8 @@ git clone https://github.com/yourusername/heartflow.git
 This project is licensed under the MIT License – Feel free to modify and expand!
 
 🙌 Credits
-
 ❤️ Designed & Developed by Myself
+
 🎨 Pixel Art by Myself and the internet
+
 🎵 Music by Myself and the internet
