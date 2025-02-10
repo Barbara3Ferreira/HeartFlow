@@ -12,15 +12,21 @@ HeartFlow is a love-themed puzzle game where players match and clear romantic sy
 🎯 How to Play
 
 1️⃣ Arrange the falling blocks (hearts, letters, and symbols) to form meaningful combinations.
+
 2️⃣ Complete matches to clear lines and keep the board from filling up.
+
 3️⃣ Advance through 3 levels, each with unique themes.
+
 4️⃣ Complete the final level to unlock the "Key to My Heart".
 
 🕹️ Controls
 
 ⬅️ Left Arrow – Move block left
+
 ➡️ Right Arrow – Move block right
+
 ⬆️ Up Arrow – Rotate block
+
 ⬇️ Down Arrow – Drop block faster
 
 🌟 Features
